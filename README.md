@@ -4,6 +4,8 @@
 
 A framework for evaluating Large Language Models in zero-shot detection of Algorithmically Generated Domains (AGDs) used by malware for Command and Control communication.
 
+> **Complete Study**: More advanced experiments and the full paper can be found at: **[github.com/reverseame/LLM-DGA-lab](https://github.com/reverseame/LLM-DGA-lab)**
+
 ## Features
 
 * **Zero-shot evaluation** of 9 LLMs from 4 major vendors (OpenAI, Anthropic, Google, Mistral)
